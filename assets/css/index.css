@@ -83,7 +83,7 @@ header .links a:hover{
 }
 
 .blobContainer{
-    background-image: url("productBlob.png");
+    background-image: url("../img/productBlob.png");
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: bottom;
